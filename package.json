@@ -1,6 +1,6 @@
 {
   "name": "karen",
-  "homepage": "https://joemarxs.github.io/Karen-Organics/",
+  "homepage": "https://joemarxs.github.io/karen-frontend/",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -12,6 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@tanstack/react-query": "^5.80.7",
